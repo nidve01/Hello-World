@@ -1,2 +1,2 @@
 # Hello-World
-[![Reference]https://github.com/apache/commons-lang]
+[![Javadocs]https://github.com/apache/commons-lang]
